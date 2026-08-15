@@ -1,0 +1,7 @@
+[
+  {"pilot_id": "PLT-001", "name": "Capt. Maria Ellison", "license_class": "class_c", "on_duty": true, "rest_hours_remaining": 9.5, "current_assignment_mmsi": null},
+  {"pilot_id": "PLT-002", "name": "Capt. James Okafor", "license_class": "class_b", "on_duty": true, "rest_hours_remaining": 5.0, "current_assignment_mmsi": null},
+  {"pilot_id": "PLT-003", "name": "Capt. Lena Voss", "license_class": "class_a", "on_duty": true, "rest_hours_remaining": 8.0, "current_assignment_mmsi": null},
+  {"pilot_id": "PLT-004", "name": "Capt. Ravi Menon", "license_class": "class_b", "on_duty": false, "rest_hours_remaining": 12.0, "current_assignment_mmsi": null},
+  {"pilot_id": "PLT-005", "name": "Capt. Sofia Petrov", "license_class": "class_c", "on_duty": true, "rest_hours_remaining": 7.25, "current_assignment_mmsi": "241556677"}
+]

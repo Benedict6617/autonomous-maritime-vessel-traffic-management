@@ -1,0 +1,6 @@
+[
+  {"tug_id": "TUG-01", "name": "Harbor Guardian", "bollard_pull_tons": 65.0, "status": "available", "home_berth": "Tug Berth A", "assigned_mmsi": null},
+  {"tug_id": "TUG-02", "name": "Steadfast", "bollard_pull_tons": 45.0, "status": "available", "home_berth": "Tug Berth A", "assigned_mmsi": null},
+  {"tug_id": "TUG-03", "name": "Coastal Titan", "bollard_pull_tons": 70.0, "status": "assigned", "home_berth": "Tug Berth B", "assigned_mmsi": "241556677"},
+  {"tug_id": "TUG-04", "name": "Bay Runner", "bollard_pull_tons": 30.0, "status": "maintenance", "home_berth": "Tug Berth B", "assigned_mmsi": null}
+]

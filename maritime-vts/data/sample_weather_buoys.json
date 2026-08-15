@@ -1,0 +1,7 @@
+[
+  {"buoy_id": "BUOY-01-ENTRANCE", "lat": 41.010, "lon": -71.320, "wind_speed_kt": 14.5, "wind_dir_deg": 220, "wave_height_m": 1.2, "wave_period_s": 6.5, "visibility_nm": 8.0, "air_temp_c": 24.1, "water_temp_c": 21.3, "timestamp": "2026-08-14T12:00:00"},
+  {"buoy_id": "BUOY-02-OUTER-ANCHORAGE", "lat": 40.980, "lon": -71.360, "wind_speed_kt": 17.0, "wind_dir_deg": 210, "wave_height_m": 1.6, "wave_period_s": 7.1, "visibility_nm": 7.5, "air_temp_c": 23.8, "water_temp_c": 21.0, "timestamp": "2026-08-14T12:00:00"},
+  {"buoy_id": "BUOY-03-CHANNEL-MID", "lat": 41.030, "lon": -71.300, "wind_speed_kt": 11.0, "wind_dir_deg": 200, "wave_height_m": 0.7, "wave_period_s": 5.2, "visibility_nm": 9.0, "air_temp_c": 24.5, "water_temp_c": 21.5, "timestamp": "2026-08-14T12:00:00"},
+  {"buoy_id": "BUOY-04-BREAKWATER", "lat": 41.045, "lon": -71.280, "wind_speed_kt": 9.5, "wind_dir_deg": 195, "wave_height_m": 0.5, "wave_period_s": 4.8, "visibility_nm": 9.5, "air_temp_c": 24.7, "water_temp_c": 21.6, "timestamp": "2026-08-14T12:00:00"},
+  {"buoy_id": "BUOY-05-PILOT-STATION", "lat": 40.995, "lon": -71.340, "wind_speed_kt": 16.2, "wind_dir_deg": 215, "wave_height_m": 1.4, "wave_period_s": 6.8, "visibility_nm": 8.2, "air_temp_c": 23.9, "water_temp_c": 21.2, "timestamp": "2026-08-14T12:00:00"}
+]

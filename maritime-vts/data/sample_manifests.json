@@ -1,0 +1,7 @@
+[
+  {"mmsi": "366123456", "vessel_name": "Pacific Voyager", "crew_count": 22, "nationalities": ["Philippines", "India", "Ukraine"], "manifest_filed_at": "2026-08-14T02:00:00", "eta": "2026-08-15T06:30:00", "customs_cleared": true, "immigration_cleared": false},
+  {"mmsi": "235098765", "vessel_name": "Atlantic Endeavor", "crew_count": 19, "nationalities": ["United Kingdom", "Poland"], "manifest_filed_at": "2026-08-13T10:00:00", "eta": "2026-08-15T14:00:00", "customs_cleared": false, "immigration_cleared": false},
+  {"mmsi": "477112233", "vessel_name": "Hong Kong Star", "crew_count": 24, "nationalities": ["Hong Kong", "Philippines", "Indonesia"], "manifest_filed_at": "2026-08-15T20:00:00", "eta": "2026-08-16T02:00:00", "customs_cleared": false, "immigration_cleared": false},
+  {"mmsi": "563001122", "vessel_name": "Northern Aurora", "crew_count": 27, "nationalities": ["Singapore", "India"], "manifest_filed_at": "2026-08-13T18:00:00", "eta": "2026-08-15T20:00:00", "customs_cleared": true, "immigration_cleared": true},
+  {"mmsi": "241556677", "vessel_name": "Meridian Tanker", "crew_count": 21, "nationalities": ["Greece", "Philippines"], "manifest_filed_at": "2026-08-13T20:00:00", "eta": "2026-08-14T22:00:00", "customs_cleared": true, "immigration_cleared": true}
+]

@@ -1,0 +1,9 @@
+[
+  {"berth_id": "T1-B1", "terminal": "Terminal 1 - Container", "max_loa_m": 400.0, "max_draft_m": 16.0, "crane_type": "gantry", "current_occupant_mmsi": null, "occupied_until": null},
+  {"berth_id": "T1-B2", "terminal": "Terminal 1 - Container", "max_loa_m": 320.0, "max_draft_m": 14.5, "crane_type": "gantry", "current_occupant_mmsi": "228334455", "occupied_until": "2026-08-15T04:00:00"},
+  {"berth_id": "T2-B1", "terminal": "Terminal 2 - Bulk", "max_loa_m": 250.0, "max_draft_m": 15.0, "crane_type": "mobile_harbor_crane", "current_occupant_mmsi": null, "occupied_until": null},
+  {"berth_id": "T2-B2", "terminal": "Terminal 2 - Bulk", "max_loa_m": 200.0, "max_draft_m": 12.0, "crane_type": "mobile_harbor_crane", "current_occupant_mmsi": null, "occupied_until": null},
+  {"berth_id": "T2-B3", "terminal": "Terminal 2 - RoRo", "max_loa_m": 220.0, "max_draft_m": 9.0, "crane_type": "none", "current_occupant_mmsi": null, "occupied_until": null},
+  {"berth_id": "T3-B1", "terminal": "Terminal 3 - Energy", "max_loa_m": 300.0, "max_draft_m": 13.0, "crane_type": "none", "current_occupant_mmsi": null, "occupied_until": null},
+  {"berth_id": "T3-B2", "terminal": "Terminal 3 - Energy", "max_loa_m": 260.0, "max_draft_m": 15.5, "crane_type": "none", "current_occupant_mmsi": "241556677", "occupied_until": "2026-08-14T23:30:00"}
+]
